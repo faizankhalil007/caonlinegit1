@@ -1,0 +1,1 @@
+[13-Jan-2020 02:18:49 Asia/Karachi] PHP Fatal error:  Method App\Quiz::__toString() must not throw an exception, caught InvalidArgumentException: Unexpected data found. in /home2/caonline/caonlinetest/app/Http/Controllers/StudentQuizAnswerController.php on line 0
